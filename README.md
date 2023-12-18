@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics and embedded sytems using JavaScript and HTML. 
 - 🌱 I’m currently learning how to work with github and do collaborative coding.
 - 💞️ I’m looking to collaborate on EEBench a Hardware Software platform to realize an electronic oscilloscope, waveform generator, power supply and digital IO.
-- A browser based user interface realized with nodejs should control an FPGA (BASYS2), Arduino or RaspberryPi with ADC, DAC, IOs and powersupplies.    
+- A browser based user interface realized with nodejs should control an FPGA (BASYS2), Arduino or RaspberryPi with ADC, DAC, IOs and power supplies.    
 - 📫 joerg.vollrath(a)hs-kempten.de
 
 <!---
